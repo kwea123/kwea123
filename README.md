@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm kwea123 (AI葵)</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kwea123" alt="kwea123" /> </p>
+<h2 align="center">Hi 👋, I'm kwea123 (AI葵), a developer and VTuber of computer vision!</h2>
+
+<p align="center"> <img src="https://github.com/kwea123/CasMVSNet_pl/raw/master/assets/demo.gif" alt="kwea123" /> </p>
 
 - 🔭 I’m currently working on **novel view synthesis, multi-view stereo**
 
