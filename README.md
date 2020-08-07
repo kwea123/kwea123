@@ -7,6 +7,8 @@
 
 - In any language: English/中文/français/日本語
 
+- [Chat with me!](https://github.com/kwea123/kwea123/issues)
+
 ## My skills
 <p align="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
