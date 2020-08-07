@@ -19,7 +19,7 @@
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
 </p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwea123&hide=html,asp,jupyter notebook" alt="kwea123" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwea123&layout=compact&hide=html,asp,jupyter notebook" alt="kwea123" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kwea123&show_icons=true" alt="kwea123" />
 
 ## Connect with me
