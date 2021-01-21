@@ -12,14 +12,14 @@
 
 ## My skills
 <p align="left">
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="cpp" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="csharp" width="40" height="40"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/unity.png" alt="unity" width="40" height="40"/>
-  <img src="https://img.icons8.com/dusk/64/000000/java-coffee-cup-logo.png" alt="java" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-  <img src="https://img.icons8.com/dusk/64/000000/python.png" alt="python" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="cpp" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="csharp" width="50" height="50"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/unity.png" alt="unity" width="50" height="50"/>
+  <img src="https://img.icons8.com/dusk/64/000000/java-coffee-cup-logo.png" alt="java" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="50" height="50"/>
+  <img src="https://img.icons8.com/dusk/64/000000/python.png" alt="python" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50"/>
 </p>
 
 <img align="left" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwea123&layout=compact&hide=html,asp,jupyter notebook" alt="kwea123" />
