@@ -12,12 +12,12 @@
 
 ## My skills
 <p align="left">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="cpp" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="csharp" width="40" height="40"/>
   <img src="https://img.icons8.com/ios-filled/50/000000/unity.png" alt="unity" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
+  <img src="https://img.icons8.com/dusk/64/000000/java-coffee-cup-logo.png" alt="java" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://img.icons8.com/dusk/64/000000/python.png" alt="python" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
 </p>
