@@ -5,7 +5,7 @@
   <img src="https://user-images.githubusercontent.com/11364490/140264589-295acebe-8ace-4d61-b871-26eb8ae10ab0.png" width="49%" />
 </p>
 
-- 🔭 I’m currently working on **novel view synthesis, multi-view stereo**
+- 🔭 I’m currently working on **novel view synthesis, multi-view stereo** and unity VR/AR/MR integration
 
 - 💬 Ask me about **anything related to deep learning in computer vision, Unity VR**
 
