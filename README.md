@@ -1,6 +1,9 @@
 <h2 align="center">Hi 👋, I'm kwea123 (AI葵), a developer and VTuber of computer vision!</h2>
 
-<p align="center"> <img src="https://github.com/kwea123/CasMVSNet_pl/raw/master/assets/demo.gif" alt="kwea123" /> </p>
+<p align="center">
+  <img src="https://github.com/kwea123/CasMVSNet_pl/raw/master/assets/demo.gif" width="49%" />
+  <img src="https://user-images.githubusercontent.com/11364490/140264589-295acebe-8ace-4d61-b871-26eb8ae10ab0.png" width="49%" />
+</p>
 
 - 🔭 I’m currently working on **novel view synthesis, multi-view stereo**
 
