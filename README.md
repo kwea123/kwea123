@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm kwea123 (AI葵), a developer and VTuber of computer vision!</h2>
+<h2 align="center">Hi 👋, I'm kwea123 (AI葵), a researcher and VTuber of computer vision!</h2>
 
 <p align="center">
   <img src="https://github.com/kwea123/CasMVSNet_pl/raw/master/assets/demo.gif" width="49%" />
