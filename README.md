@@ -33,4 +33,5 @@
   <a href="mailto:kwea123@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/clouds/100/000000/gmail.png" alt="mail" height="50" width="50" /></a>
   <a href="https://linkedin.com/in/quei-an-chen-612266143" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="quei-an-chen-612266143" height="50" width="50" /></a>
   <a href="https://www.youtube.com/channel/UC7UlsMUu_gIgpqNGB4SqSwQ" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/youtube.png" alt="uc7ulsmuu_gigpqngb4sqswq" height="50" width="50" /></a>
+  <a href="https://twitter.com/kwea123" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="uc7ulsmuu_gigpqngb4sqswq" height="50" width="50" /></a>
 </p>
