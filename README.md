@@ -13,6 +13,8 @@
 
 - [Chat with me!](https://github.com/kwea123/kwea123/issues)
 
+- [Sponsor me!](https://paypal.me/kwea123) (paypal or github sponsor)
+
 ## My skills
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="cpp" width="50" height="50"/>
